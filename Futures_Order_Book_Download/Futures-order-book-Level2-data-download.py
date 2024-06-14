@@ -1,4 +1,4 @@
-"""
+resultToBeDownloaded = get(pathToObtainDownloadLink, paramsToObtainDownloadLink)"""
 This example python script shows how to download the Historical Future Order Book level 2 Data via API.
 
 The data download API is part of the Binance API (https://binance-docs.github.io/apidocs/spot/en/#general-api-information).
